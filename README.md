@@ -1,2 +1,2 @@
 # Cryptor
-Unix project
+Developed a file encryption and decryption tool in Python using Fernet encryption and PBKDF2HMAC for secure key derivation. Implemented multi-threading for efficient large file processing, RAID 1-inspired backup for data reliability, and optional file compression. The Tkinter-based GUI enables easy file selection, encryption, and decryption with enhanced performance through concurrent processing and synchronization.
